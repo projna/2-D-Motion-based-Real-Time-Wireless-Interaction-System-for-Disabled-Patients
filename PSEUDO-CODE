@@ -1,0 +1,16 @@
+Transmitter:
+1) Setting the reference level of Arduino to 3.3V.
+2) Declaring the input and output pins for NRF and Accelerometer.
+3) Addressing the NRF module and setting it in.
+4) Taking readings from the accelerometer.
+5) Comparing the accelerometer reading with reference values for determining the position of accelerometer.
+6) Transmitting one of the messages depending on the accelerometer position.
+
+Receiver:
+7) Declaring input and output pins for LCD monitor, NRF, GSM and Ethernet shield.
+8) Setting up the NRF in listening mode.
+9) If a message is received from transmitter, showing the message on the LCD display and turning on the buzzer for a certain period and setting a flag.
+10) Sending the message through Ethernet shield and GSM.
+11) Monitoring if another message has arrived from the transmitter
+12) If push button is pressed, turning the flag to zero and turning the buzzer off.
+13) If flag crosses a certain value, turning on the buzzer again.
