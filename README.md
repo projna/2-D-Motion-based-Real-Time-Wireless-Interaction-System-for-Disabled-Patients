@@ -19,3 +19,19 @@ repeaters are used to convey the message to the central receiver.
 Via this system the issue of 24 hour monitoring can be solved
 with a very affordable cost and less manpower, improving healthcare
 facilities and patient satisfaction in hospitals to manifold.
+|![image](https://user-images.githubusercontent.com/35718781/191404527-aea0911e-8740-4061-a450-8b2fb6eb5a91.png) |
+|:--:| 
+|Fig. 1. Block Diagram of the Sender Unit showing direction of flow of power and transmission of signal.|
+|![image](https://user-images.githubusercontent.com/35718781/191404613-185f3a7d-1d13-4437-b17d-fef41ce3b469.png)|
+|Fig. 2. Block diagram of Receiver Unit with direction of flow of information.|
+|![image](https://user-images.githubusercontent.com/35718781/191404629-51d09ac6-31bd-4cea-8e07-5a3041bb6455.png)|
+|Fig. 3. Portable transmitting unit consisting of Arduino Nano, ADXL 335 and NRF24L01 powered by two 3.3v batteries.|
+| ![image](https://user-images.githubusercontent.com/35718781/191404650-017de9e2-787c-488a-8743-ee677079da2d.png) | 
+|Fig. 4. Eight positions for hand that conveys eight different messages. (a) Normal Position (b) Right 45 degree bent (c) Right 90 degree bent (d) Back
+more than 45 degree bent (e) Left 45 degree bent (f) Left 90 degree bent (g) Front bent more than 45 degree bent (h) Fully overturned.|
+
+
+
+
+
+
